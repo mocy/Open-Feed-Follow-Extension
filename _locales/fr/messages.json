@@ -1,0 +1,122 @@
+{
+   "of_follow_action_title": {
+      "message": "Cliquer pour s'abonner..."
+   },
+   "of_follow_add_reader": {
+      "message": "Ajouter..."
+   },
+   "of_follow_always_use": {
+      "message": "Toujours m'abonner aux flux avec ce lecteur"
+   },
+   "of_follow_always_use_default": {
+      "message": "Toujours lire les flux auxquels je m'abonne avec mon lecteur par d\u00E9faut"
+   },
+   "of_follow_close_button": {
+      "message": "Fermer"
+   },
+   "of_follow_default": {
+      "message": "(par d\u00E9faut)"
+   },
+   "of_follow_default_title": {
+      "message": "S'abonner \u00E0 ce flux"
+   },
+   "of_follow_description": {
+      "message": "Ajoute un bouton \u00E0 votre barre d'outils qui vous permet de vous abonner en un seul clic."
+   },
+   "of_follow_edit_dialog_title": {
+      "message": "Modifier le lecteur de flux"
+   },
+   "of_follow_edit_reader": {
+      "message": "Modifier..."
+   },
+   "of_follow_error_fetching": {
+      "message": "Erreur lors de la r\u00E9cup\u00E9ration des flux"
+   },
+   "of_follow_feed_description": {
+      "message": "Description\u00A0:"
+   },
+   "of_follow_feed_for": {
+      "message": "Flux de $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_feed_link": {
+      "message": "Flux"
+   },
+   "of_follow_feed_preview": {
+      "message": "Aper\u00E7u du flux"
+   },
+   "of_follow_feed_preview_count": {
+      "message": "Nombre de flux \u00E0 afficher sur la page d'aper\u00E7u\u00A0:"
+   },
+   "of_follow_feed_url": {
+      "message": "URL\u00A0:"
+   },
+   "of_follow_feed_url_assist": {
+      "message": "Ins\u00E9rez %s dans l'URL, l\u00E0 o\u00F9 l'URL du flux doit appara\u00EEtre."
+   },
+   "of_follow_make_default_reader": {
+      "message": "Utiliser par d\u00E9faut"
+   },
+   "of_follow_manage_label": {
+      "message": "G\u00E9rer..."
+   },
+   "of_follow_name": {
+      "message": "Extension Abonnement pour Open Feed (par feedly)"
+   },
+   "of_follow_no_entries": {
+      "message": "Ce flux ne comporte aucune entr\u00E9e."
+   },
+   "of_follow_no_localstorage": {
+      "message": "Pour pouvoir modifier les options, vous devez activer le stockage local."
+   },
+   "of_follow_not_valid_feed": {
+      "message": "Ce flux n'est pas valide."
+   },
+   "of_follow_one_entry_required": {
+      "message": "Cette liste doit comporter au moins une entr\u00E9e."
+   },
+   "of_follow_options": {
+      "message": "Options d'abonnement pour Open Feed"
+   },
+   "of_follow_remove_confirm": {
+      "message": "Voulez-vous vraiment supprimer $1\u00A0?",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_remove_confirmation": {
+      "message": "Voulez-vous vraiment supprimer $1\u00A0?",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_remove_reader": {
+      "message": "Supprimer..."
+   },
+   "of_follow_reset_list": {
+      "message": "R\u00E9initialiser la liste..."
+   },
+   "of_follow_reset_list_confirm": {
+      "message": "Voulez-vous vraiment annuler toutes les modifications que vous avez apport\u00E9es \u00E0 cette liste\u00A0?"
+   },
+   "of_follow_save_button": {
+      "message": "Enregistrer"
+   },
+   "of_follow_follow_button": {
+      "message": "S'abonner maintenant"
+   },
+   "of_follow_follow_using": {
+      "message": "S'abonner \u00E0 ce flux avec\u00A0:"
+   },
+   "of_follow_unknown_feed_name": {
+      "message": "Nom de flux inconnu"
+   }
+}

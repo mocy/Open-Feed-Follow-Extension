@@ -1,0 +1,122 @@
+{
+   "of_follow_action_title": {
+      "message": "Click to follow..."
+   },
+   "of_follow_add_reader": {
+      "message": "Add..."
+   },
+   "of_follow_always_use": {
+      "message": "Always use this reader to follow to feeds."
+   },
+   "of_follow_always_use_default": {
+      "message": "Always use my default reader when subscribing to feeds."
+   },
+   "of_follow_close_button": {
+      "message": "Close"
+   },
+   "of_follow_default": {
+      "message": "(default)"
+   },
+   "of_follow_default_title": {
+      "message": "Follow to this feed"
+   },
+   "of_follow_description": {
+      "message": "Adds one-click follow to your toolbar."
+   },
+   "of_follow_edit_dialog_title": {
+      "message": "Edit feed reader"
+   },
+   "of_follow_edit_reader": {
+      "message": "Edit..."
+   },
+   "of_follow_error_fetching": {
+      "message": "Error fetching feed."
+   },
+   "of_follow_feed_description": {
+      "message": "Description:"
+   },
+   "of_follow_feed_for": {
+      "message": "Feed for $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_feed_link": {
+      "message": "Feed"
+   },
+   "of_follow_feed_preview": {
+      "message": "Feed preview"
+   },
+   "of_follow_feed_preview_count": {
+      "message": "Number of feeds to show on the preview page:"
+   },
+   "of_follow_feed_url": {
+      "message": "URL:"
+   },
+   "of_follow_feed_url_assist": {
+      "message": "Insert %s in the URL where the feed url should appear."
+   },
+   "of_follow_make_default_reader": {
+      "message": "Make default"
+   },
+   "of_follow_manage_label": {
+      "message": "Manage..."
+   },
+   "of_follow_name": {
+      "message": "Open Feed Follow Extension (by feedly)"
+   },
+   "of_follow_no_entries": {
+      "message": "This feed contains no entries."
+   },
+   "of_follow_no_localstorage": {
+      "message": "LocalStorage must be enabled for changing options."
+   },
+   "of_follow_not_valid_feed": {
+      "message": "Not a valid feed."
+   },
+   "of_follow_one_entry_required": {
+      "message": "There must be at least one entry in this list"
+   },
+   "of_follow_options": {
+      "message": "Open Feed Follow options"
+   },
+   "of_follow_remove_confirm": {
+      "message": "Are you sure you want to remove '$1'?",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_remove_confirmation": {
+      "message": "Are you sure you want to remove $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "of_follow_remove_reader": {
+      "message": "Remove..."
+   },
+   "of_follow_reset_list": {
+      "message": "Reset list..."
+   },
+   "of_follow_reset_list_confirm": {
+      "message": "Are you sure you want to undo any changes you have made to this list?"
+   },
+   "of_follow_save_button": {
+      "message": "Save"
+   },
+   "of_follow_follow_button": {
+      "message": "Follow Now"
+   },
+   "of_follow_follow_using": {
+      "message": "Follow to this feed using:"
+   },
+   "of_follow_unknown_feed_name": {
+      "message": "Unknown feed name"
+   }
+}
